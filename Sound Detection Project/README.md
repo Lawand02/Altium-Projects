@@ -11,12 +11,11 @@ It comprises an onboard potentiometer to adjust the setpoint for sound level.
 
 # Design Drawing :
 ## schematic diagram :
-![Schematic](https://github.com/user-attachments/assets/01f6f5ef-d417-4e3f-a7c6-74c694ed9713)
+![Schematic](https://github.com/user-attachments/assets/b1e19070-0f1b-4f45-aeb0-bd67fb5a001f)
 
 ## PCB
-
-![PCB](https://github.com/user-attachments/assets/500ddc03-7198-4768-961f-77dd86884e3c)
+![PCB](https://github.com/user-attachments/assets/a6fcaafd-f7b6-4a2a-8d9a-2699bf8de7d1)
 
 ## 3D
+![3D](https://github.com/user-attachments/assets/3ad24b51-0ef1-462f-ac83-b9d1cbaa02ae)
 
-![3D](https://github.com/user-attachments/assets/9c0c4ae7-888b-4d9d-aeb6-57f911ed527a)
