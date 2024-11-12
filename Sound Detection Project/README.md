@@ -2,8 +2,8 @@
 Sound detection sensor module detects the intensity of sound where sound is detected via a microphone and fed into an LM393 op-amp.
 It comprises an onboard potentiometer to adjust the setpoint for sound level.
 ## Pin, Control Indicator	Description :
+![image](https://github.com/user-attachments/assets/0961b335-c779-44bc-b77d-d5e4b9524cde)
 
-![Arduino-IR-Collision-Detection-Module-Pin-Outs](https://github.com/user-attachments/assets/aff134e1-7971-4d40-a901-f27ae54c6b4d)
 - *Vcc* :	The Vcc pin powers the module, typically with +5V
 - *Gnd* :	Power Supply Ground
 - *D0* :	Digital Output Pin. Directly connected to digital pin of Microcontroller
