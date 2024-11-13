@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=PWR NewDesignator=LED2
-Add Class Member: Failed to add class member : Component LED1 SWITCH LED
-Added Member To Class: ClassName=Sheet1 Member=Component LED2 POWER LED
-Added Room: Name=Sheet1
